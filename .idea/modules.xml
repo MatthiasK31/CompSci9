@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CompSci9_Labs.iml" filepath="$PROJECT_DIR$/CompSci9_Labs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unit10/unit10.iml" filepath="$PROJECT_DIR$/unit10/unit10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unit2/unit2.iml" filepath="$PROJECT_DIR$/unit2/unit2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unit3/unit3.iml" filepath="$PROJECT_DIR$/unit3/unit3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unit4/unit4.iml" filepath="$PROJECT_DIR$/unit4/unit4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unit5/unit5.iml" filepath="$PROJECT_DIR$/unit5/unit5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unit6/unit6.iml" filepath="$PROJECT_DIR$/unit6/unit6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unit7/unit7.iml" filepath="$PROJECT_DIR$/unit7/unit7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unit8/unit8.iml" filepath="$PROJECT_DIR$/unit8/unit8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unit9/unit9.iml" filepath="$PROJECT_DIR$/unit9/unit9.iml" />
+    </modules>
+  </component>
+</project>

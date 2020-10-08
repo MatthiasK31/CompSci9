@@ -1,0 +1,14 @@
+Markus Brown
+Number of Hours Worked: 40
+Hourly Wage: $13
+
+John Doe
+Number of Hours Worked: 55
+Hourly Wage: $35
+Gross Pay: $1925
+
+Mary Wald
+Number of Hours Worked: 60
+Hourly Wage: $33
+Gross Pay: $1980
+
